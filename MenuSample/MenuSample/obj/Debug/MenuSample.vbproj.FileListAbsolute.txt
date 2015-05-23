@@ -1,0 +1,74 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\MenuSample\MenuSample\bin\Debug\MenuSample.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\MenuSample\MenuSample\bin\Debug\MenuSample.exe.manifest
+C:\Users\chris\Documents\Visual Studio 2013\Projects\MenuSample\MenuSample\bin\Debug\MenuSample.application
+C:\Users\chris\Documents\Visual Studio 2013\Projects\MenuSample\MenuSample\bin\Debug\MenuSample.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\MenuSample\MenuSample\bin\Debug\MenuSample.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\MenuSample\MenuSample\bin\Debug\MenuSample.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\MenuSample\MenuSample\obj\Debug\MenuSample.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\MenuSample\MenuSample\obj\Debug\MenuSample.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\MenuSample\MenuSample\obj\Debug\MenuSample.TrustInfo.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\MenuSample\MenuSample\obj\Debug\MenuSample.exe.manifest
+C:\Users\chris\Documents\Visual Studio 2013\Projects\MenuSample\MenuSample\obj\Debug\MenuSample.application
+C:\Users\chris\Documents\Visual Studio 2013\Projects\MenuSample\MenuSample\obj\Debug\MenuSample.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\MenuSample\MenuSample\obj\Debug\MenuSample.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\MenuSample\MenuSample\obj\Debug\MenuSample.pdb
+C:\Users\chris\Documents\Personal\Resume`\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\bin\Debug\MenuSample.exe.config
+C:\Users\chris\Documents\Personal\Resume`\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\obj\Debug\MenuSample.exe
+C:\Users\chris\Documents\Personal\Resume`\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\obj\Debug\MenuSample.xml
+C:\Users\chris\Documents\Personal\Resume`\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\obj\Debug\MenuSample.pdb
+C:\Users\chris\Documents\Personal\Resume`\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample2\MenuSample\MenuSample\MenuSample\bin\Debug\MenuSample.exe.config
+C:\Users\chris\Documents\Personal\Resume`\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample2\MenuSample\MenuSample\MenuSample\obj\Debug\MenuSample.exe
+C:\Users\chris\Documents\Personal\Resume`\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample2\MenuSample\MenuSample\MenuSample\obj\Debug\MenuSample.xml
+C:\Users\chris\Documents\Personal\Resume`\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample2\MenuSample\MenuSample\MenuSample\obj\Debug\MenuSample.pdb
+C:\Users\chris\Documents\Personal\Resume`\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\MenuSample\bin\Debug\MenuSample.exe.config
+C:\Users\chris\Documents\Personal\Resume`\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\MenuSample\obj\Debug\MenuSample.exe
+C:\Users\chris\Documents\Personal\Resume`\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\MenuSample\obj\Debug\MenuSample.xml
+C:\Users\chris\Documents\Personal\Resume`\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\MenuSample\obj\Debug\MenuSample.pdb
+C:\Users\chris\Documents\Personal\Resume`\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\MenuSample\bin\Debug\MenuSample.exe.manifest
+C:\Users\chris\Documents\Personal\Resume`\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\MenuSample\bin\Debug\MenuSample.application
+C:\Users\chris\Documents\Personal\Resume`\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\MenuSample\bin\Debug\MenuSample.exe
+C:\Users\chris\Documents\Personal\Resume`\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\MenuSample\bin\Debug\MenuSample.pdb
+C:\Users\chris\Documents\Personal\Resume`\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\MenuSample\bin\Debug\MenuSample.xml
+C:\Users\chris\Documents\Personal\Resume`\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\MenuSample\obj\Debug\MenuSample.Resources.resources
+C:\Users\chris\Documents\Personal\Resume`\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\MenuSample\obj\Debug\MenuSample.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Personal\Resume`\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\MenuSample\obj\Debug\MenuSample.TrustInfo.xml
+C:\Users\chris\Documents\Personal\Resume`\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\MenuSample\obj\Debug\MenuSample.exe.manifest
+C:\Users\chris\Documents\Personal\Resume`\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\MenuSample\obj\Debug\MenuSample.application
+C:\Users\chris\Documents\Personal\Resume`\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\bin\Debug\MenuSample.exe.manifest
+C:\Users\chris\Documents\Personal\Resume`\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\bin\Debug\MenuSample.application
+C:\Users\chris\Documents\Personal\Resume`\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\bin\Debug\MenuSample.exe
+C:\Users\chris\Documents\Personal\Resume`\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\bin\Debug\MenuSample.pdb
+C:\Users\chris\Documents\Personal\Resume`\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\bin\Debug\MenuSample.xml
+C:\Users\chris\Documents\Personal\Resume`\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\obj\Debug\MenuSample.Resources.resources
+C:\Users\chris\Documents\Personal\Resume`\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\obj\Debug\MenuSample.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Personal\Resume`\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\obj\Debug\MenuSample.TrustInfo.xml
+C:\Users\chris\Documents\Personal\Resume`\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\obj\Debug\MenuSample.exe.manifest
+C:\Users\chris\Documents\Personal\Resume`\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\obj\Debug\MenuSample.application
+C:\Users\chris\Documents\Personal\Resume`\z-archive\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\bin\Debug\MenuSample.exe.config
+C:\Users\chris\Documents\Personal\Resume`\z-archive\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\obj\Debug\MenuSample.exe
+C:\Users\chris\Documents\Personal\Resume`\z-archive\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\obj\Debug\MenuSample.xml
+C:\Users\chris\Documents\Personal\Resume`\z-archive\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\obj\Debug\MenuSample.pdb
+C:\Users\chris\Documents\Personal\Resume`\z-archive\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\bin\Debug\MenuSample.exe.manifest
+C:\Users\chris\Documents\Personal\Resume`\z-archive\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\bin\Debug\MenuSample.application
+C:\Users\chris\Documents\Personal\Resume`\z-archive\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\bin\Debug\MenuSample.exe
+C:\Users\chris\Documents\Personal\Resume`\z-archive\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\bin\Debug\MenuSample.pdb
+C:\Users\chris\Documents\Personal\Resume`\z-archive\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\bin\Debug\MenuSample.xml
+C:\Users\chris\Documents\Personal\Resume`\z-archive\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\obj\Debug\MenuSample.Resources.resources
+C:\Users\chris\Documents\Personal\Resume`\z-archive\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\obj\Debug\MenuSample.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Personal\Resume`\z-archive\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\obj\Debug\MenuSample.TrustInfo.xml
+C:\Users\chris\Documents\Personal\Resume`\z-archive\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\obj\Debug\MenuSample.exe.manifest
+C:\Users\chris\Documents\Personal\Resume`\z-archive\Avinode\SampleMenu - Interview Project #1\Avinode code sample interview 10-6-2014\MenuSample\MenuSample\MenuSample\obj\Debug\MenuSample.application
+C:\Users\chris\Documents\Personal\Resume`\C# code sample\MenuSample\MenuSample\bin\Debug\MenuSample.exe.config
+C:\Users\chris\Documents\Personal\Resume`\C# code sample\MenuSample\MenuSample\obj\Debug\MenuSample.exe
+C:\Users\chris\Documents\Personal\Resume`\C# code sample\MenuSample\MenuSample\obj\Debug\MenuSample.xml
+C:\Users\chris\Documents\Personal\Resume`\C# code sample\MenuSample\MenuSample\obj\Debug\MenuSample.pdb
+C:\Users\chris\Documents\Personal\Resume`\C# code sample\MenuSample\MenuSample\bin\Debug\MenuSample.exe.manifest
+C:\Users\chris\Documents\Personal\Resume`\C# code sample\MenuSample\MenuSample\bin\Debug\MenuSample.application
+C:\Users\chris\Documents\Personal\Resume`\C# code sample\MenuSample\MenuSample\bin\Debug\MenuSample.exe
+C:\Users\chris\Documents\Personal\Resume`\C# code sample\MenuSample\MenuSample\bin\Debug\MenuSample.pdb
+C:\Users\chris\Documents\Personal\Resume`\C# code sample\MenuSample\MenuSample\bin\Debug\MenuSample.xml
+C:\Users\chris\Documents\Personal\Resume`\C# code sample\MenuSample\MenuSample\obj\Debug\MenuSample.Resources.resources
+C:\Users\chris\Documents\Personal\Resume`\C# code sample\MenuSample\MenuSample\obj\Debug\MenuSample.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Personal\Resume`\C# code sample\MenuSample\MenuSample\obj\Debug\MenuSample.TrustInfo.xml
+C:\Users\chris\Documents\Personal\Resume`\C# code sample\MenuSample\MenuSample\obj\Debug\MenuSample.exe.manifest
+C:\Users\chris\Documents\Personal\Resume`\C# code sample\MenuSample\MenuSample\obj\Debug\MenuSample.application
