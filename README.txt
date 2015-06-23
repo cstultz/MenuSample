@@ -1,5 +1,5 @@
 
- Menu Sample: Parse XML Menu and Write Items to Console 
+ Menu Sample: Parse XML Menu recursively and Write ACTIVE Items to Console 
 
 The scenario
 There are two teams of developers. One team of .Net, and the other team Java. As end users navigate from page to page, they should not notice whether they’re on a .Net page or a Java page. Therefore both teams need to be able to draw the exact same menu, so there is a shared XML document to define the menu structure. 
